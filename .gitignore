@@ -1,3 +1,5 @@
 scihub/logs
 scihub/output
 scihub/*.txt
+opentechfund/urls.txt
+opentechfund/scrape.txt
